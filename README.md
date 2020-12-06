@@ -16,3 +16,6 @@ A class method is a method whcih si bound to the class and not the the object of
 
 ## Static Methods
 Stati methods, much like class methods, are methods that are bound neither to a class or object. They do not require a class instance creation or the class itself.
+
+## Inheritance
+Inheritance allows us to define a class that inherits all the methods and properties from another class. Parent class is the class being inherited from, also called base class. Child class is the class that inherits from another class, alsoc called derived class.
