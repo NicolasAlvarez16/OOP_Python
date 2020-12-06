@@ -51,6 +51,7 @@ emp_2 = Employee("Test", "User", 60000)
 # print(new_emp_1.email)
 # print(new_emp_1.pay)
 
+'''USING STATIC METHODS'''
 import datetime
 my_date = datetime.date(2020, 7, 11)
 print(Employee.is_workday(my_date))
