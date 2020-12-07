@@ -1,6 +1,6 @@
 # Inheritance
 
-class Employee():
+class Employee:
     raise_amount = 1.04 # Class Variable
     num_emps = 0 # Class Varibale
 
