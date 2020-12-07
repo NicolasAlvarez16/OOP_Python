@@ -22,3 +22,7 @@ Inheritance allows us to define a class that inherits all the methods and proper
 
 ## Special Methods
 This specila methods allows us to emulate some built-in behaviour within python. And it is also used to implement operator overloading.
+
+## Property Decorators
+A decorator is a design pattern in Python that allows to add new funcionality to an existing objet without modifying its structure. Decorators are usually called before the definition of a function you want to decorate.
+In OOP decorators are used to convert methods into setters, getters and Deleters
