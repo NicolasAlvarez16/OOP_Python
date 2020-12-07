@@ -1,4 +1,4 @@
-# Property Deocorators
+# Prython Deocorators
 
 class Employee():
     raise_amount = 1.04 # Class Variable
