@@ -26,6 +26,7 @@ print(Employee.num_emps)
 
 emp_1.raise_amount = 1.05
 
+print(emp_1.fullname())
 print(Employee.raise_amount)
 print(emp_1.raise_amount)
 print(emp_2.raise_amount)
